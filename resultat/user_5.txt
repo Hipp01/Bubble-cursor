@@ -1,0 +1,104 @@
+Rope
+
+30 cibles , 6 pixels :
+   - 4.894 secondes
+
+90 cibles , 6 pixels :
+   - 2.3099999999999996 secondes
+
+60 cibles , 12 pixels :
+   - 2.032 secondes
+
+90 cibles , 12 pixels :
+   - 1.9720000000000002 secondes
+
+60 cibles , 6 pixels :
+   - 4.5580000000000003 secondes
+
+60 cibles , 18 pixels :
+   - 1.4300000000000002 secondes
+
+30 cibles , 12 pixels :
+   - 1.326 secondes
+
+30 cibles , 18 pixels :
+   - 1.6439999999999997 secondes
+
+90 cibles , 18 pixels :
+   - 1.3459999999999996 secondes
+
+
+
+Temps total pour Rope : 19.511999999999997 secondes
+
+
+
+Bubble
+
+90 cibles , 6 pixels :
+   - 6.662 secondes
+
+30 cibles , 18 pixels :
+   - 1.568 secondes
+
+60 cibles , 18 pixels :
+   - 1.448 secondes
+
+90 cibles , 12 pixels :
+   - 2.364 secondes
+
+60 cibles , 12 pixels :
+   - 2.906000000000001 secondes
+
+60 cibles , 6 pixels :
+   - 6.2059999999999995 secondes
+
+30 cibles , 12 pixels :
+   - 1.7559999999999998 secondes
+
+30 cibles , 6 pixels :
+   - 6.232 secondes
+
+90 cibles , 18 pixels :
+   - 1.746 secondes
+
+
+
+Temps total pour Bubble : 28.888 secondes
+
+
+Normal
+
+90 cibles , 18 pixels :
+   - 1.45 secondes
+
+30 cibles , 18 pixels :
+   - 1.702 secondes
+
+60 cibles , 18 pixels :
+   - 1.6060000000000003 secondes
+
+90 cibles , 12 pixels :
+   - 2.2659999999999996 secondes
+
+60 cibles , 12 pixels :
+   - 2.3839999999999997 secondes
+
+60 cibles , 6 pixels :
+   - 2.62 secondes
+
+30 cibles , 12 pixels :
+   - 1.544 secondes
+
+30 cibles , 6 pixels :
+   - 2.124 secondes
+
+90 cibles , 6 pixels :
+   - 2.738 secondes
+
+
+
+Temps total pour Normal : 17.734 secondes
+
+
+Capu
