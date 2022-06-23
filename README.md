@@ -86,11 +86,10 @@ Par contre la taille de la cible influe beaucoup sur la sélection, car plus la 
 
 La technique influe aussi sur le temps de sélection, la technique de bulle prend plus de temps que celle de corde, qui prend plus de temps que la technique normale.
 
-On peut se demander si c’est à cause de l’habitude de pointer sans être guidé, ou si c’est parce que les techniques où l’on rajoute un phénomène de visualisation perturbe l’utilisateur.
+On peut se demander si c’est à cause de l’habitude de pointer sans être guidé, ou si c’est parce que les techniques où l’on rajoute un phénomène de visualisation perturbe l’utilisateur.  
 
-Le code de l’expérience est disponible à l’adresse ci-dessous :
 
-[https://gitlab.univ-lille.fr/hippolyte.larzul.etu/bubble-cursor](https://gitlab.univ-lille.fr/hippolyte.larzul.etu/bubble-cursor)
+
 
 Pour effectuer l’expérience, il faut se placer dans le dossier “python”, puis lancer la commande :
 
